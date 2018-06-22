@@ -36,6 +36,8 @@ var facts = [
         return("I love the Beatles!");
       }
       
+      var i = 0;
+      
     
     
     
