@@ -29,6 +29,7 @@ var facts = [
   
   johnLennonFacts(facts);
     var iLoveTheBeatles = function (num){
+      var arr = [];
       
     
     
