@@ -19,4 +19,5 @@ function iLoveTheBeatles(num) {
   var love = [];
   do {
     love.push("I love the Beatles!");
+    num++;
     
