@@ -42,7 +42,8 @@ var facts = [
         i++;
       } while (i < num);
       return(arr);
-      
+    }
+    
     
     
     
