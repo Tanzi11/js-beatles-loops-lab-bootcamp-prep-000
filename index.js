@@ -10,4 +10,5 @@ var theBeatlesPlay = function (musiciansArray, instrumentsArray) {
 theBeatlesPlay(singers, instruments);
 var facts = [
   "He was the last Beatle to learn to drive",
+  "He was never a vegetarian",
   
