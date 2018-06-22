@@ -23,7 +23,8 @@ var facts = [
       newFactsArray.push(factsArray[i] + "!!!");
       i++;
       arrayCounter--;
-      
+    }
+    
     
     
     
