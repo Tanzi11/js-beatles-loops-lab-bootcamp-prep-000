@@ -19,6 +19,8 @@ var facts = [
     var arrayCounter = factsArray.length
     var newFactsArray = [];
     
+    while (arrayCounter > 0) {
+      
     
     
     
