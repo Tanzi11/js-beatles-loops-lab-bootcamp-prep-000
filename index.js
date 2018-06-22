@@ -20,6 +20,7 @@ var facts = [
     var newFactsArray = [];
     
     while (arrayCounter > 0) {
+      newFactsArray.push(factsArray[i] + "!!!");
       
     
     
