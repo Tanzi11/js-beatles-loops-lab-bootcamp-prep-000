@@ -41,6 +41,7 @@ var facts = [
         arr.push("I love the Beatles!");
         i++;
       } while (i < num);
+      return(arr);
       
     
     
