@@ -24,6 +24,7 @@ var facts = [
       i++;
       arrayCounter--;
     }
+    return(newFactsArray);
     
     
     
