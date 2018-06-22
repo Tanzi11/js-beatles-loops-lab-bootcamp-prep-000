@@ -40,7 +40,8 @@ var facts = [
       do {
         arr.push("I love the Beatles!");
         i++;
-        
+      } while (i < num);
+      
     
     
     
