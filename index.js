@@ -33,6 +33,8 @@ var facts = [
       num++;
       
       if (num === 18) {
+        return("I love the Beatles!");
+        
     
     
     
