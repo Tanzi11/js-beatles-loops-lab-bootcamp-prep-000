@@ -5,4 +5,4 @@ var theBeatlesPlay = function (musiciansArray, instrumentsArray) {
   for (var i = 0; i<musiciansArray.length; i++) {
     collect.push(musiciansArray[i] + " plays " + instrumentsArray[i]);
   }
-  
+  return(collect);
