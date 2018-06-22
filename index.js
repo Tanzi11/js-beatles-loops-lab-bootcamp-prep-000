@@ -3,4 +3,5 @@ const instruments = ["guitar", "drums", "piano", "trumpet"];
 var theBeatlesPlay = function (musiciansArray, instrumentsArray) {
   var collect = [];
   for (var i = 0; i<musiciansArray.length; i++) {
+    collect.push(musiciansArray[i] + " plays " + instrumentsArray[i]);
     
