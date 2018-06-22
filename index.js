@@ -8,3 +8,5 @@ var theBeatlesPlay = function (musiciansArray, instrumentsArray) {
   return(collect);
 };
 theBeatlesPlay(singers, instruments);
+var facts = [
+  
