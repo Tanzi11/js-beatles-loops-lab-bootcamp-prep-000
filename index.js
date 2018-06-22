@@ -32,6 +32,7 @@ var facts = [
       var arr = [];
       num++;
       
+      if (num === 18) {
     
     
     
