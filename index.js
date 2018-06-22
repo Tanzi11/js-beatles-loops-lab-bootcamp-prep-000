@@ -15,6 +15,7 @@ var facts = [
   "He hated the sound of his own voice"
   ];
   var johnLennonFacts = function (factsArray) {
+    var i = 0;
     
     
     
