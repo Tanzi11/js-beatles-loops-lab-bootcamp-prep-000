@@ -27,6 +27,7 @@ var facts = [
     return(newFactsArray);
   };
   
+  johnLennonFacts(facts);
     
     
     
